@@ -1,2 +1,2 @@
-pwd
-123
+#！/bin/bash
+echo "hello boy"
